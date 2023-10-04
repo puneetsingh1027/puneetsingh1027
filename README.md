@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @puneetsingh1027
-- 👀 I’m interested in ...machine learning  
+- 👀 I’m interested in .....
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...ml based projects  
+- 💞️ I’m looking to collaborate on ... projects  
 - 📫 How to reach me ...@puneet_trapper
 
 <!---
