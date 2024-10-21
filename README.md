@@ -2,7 +2,6 @@
 - 👀 I’m interested in .....
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ... projects  
-- 📫 How to reach me ...@puneet_trapper
 
 <!---
 puneetsingh1027/puneetsingh1027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
